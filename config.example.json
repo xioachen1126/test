@@ -1,0 +1,8 @@
+{
+  "base_token": "<飞书多维表 base token，取自表格 URL /base/ 后面那段>",
+  "table_id": "<数据表 ID，取自 URL 的 table= 参数>",
+  "identity": "bot",
+  "lark_cli": "<lark-cli 的绝对路径，which lark-cli>",
+  "profile": "<lark-cli 命名配置档名，如 rpa-notify-bot；不填则用默认档>",
+  "source_url": "<可选：待办里「回跳按钮」指向的飞书表深链，形如 https://<租户>.feishu.cn/base/<token>?table=<id>；不填则指向待办中心根地址>"
+}
