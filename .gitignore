@@ -1,0 +1,15 @@
+# Local secrets and runtime state
+config.local.json
+state.json
+last_run.json
+logs/
+*.log
+
+# Local tooling and OS files
+.idea/
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Generated exports
+boc-rates.csv
